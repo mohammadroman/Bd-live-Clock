@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(14, 54, 114);
+}
+.dark{
+    width: 400px;
+    height: 220px;
+    background-color: blueviolet;
+    margin-left:500px !important;
+    margin-top: 200px;
+    position: absolute;
+    border-radius: 5px;
+}
+.disply{
+    background-color: red;
+    width: 320px;
+    height: 160px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+#time{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 100px !important;
+    text-shadow: 5px 5px 5px rgba(53, 46, 46, 0.788);
+    font-family: Arial;
+}
+small{
+    color: white;
+    font-size: 14px;
+    text-shadow: 5px 5px 5px rgba(53, 49, 49, 0.658);
+    font-family: Arial;
+    font-weight: bold;
+}
+.roman{
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+    margin-top: 50px;
+}
